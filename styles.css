@@ -1,0 +1,14 @@
+body {
+  background: lightgrey;
+}
+#image {
+  max-width: 100%;
+}
+
+#img-div {
+  display:block;
+  background: white;
+}
+img {
+  display: block;
+}
