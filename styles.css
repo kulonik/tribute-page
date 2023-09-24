@@ -1,12 +1,36 @@
 body {
-  background: lightgrey;
+  background: #fff;
+  padding-top: 20px;
 }
+
+#main {
+  background: #efebeb;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2.5em;
+  color: #343232;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#title {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+#title > p {
+  text-align: center;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: #343232;
+}
+
 #image {
   max-width: 100%;
 }
 
 #img-div {
-  display:block;
+  display: block;
   background: white;
 }
 img {
