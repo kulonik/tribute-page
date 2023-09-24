@@ -1,6 +1,7 @@
 body {
   background: #fff;
   padding-top: 20px;
+  padding-bottom: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: #343232;
 }
@@ -43,4 +44,27 @@ img {
 #img-caption {
   text-align: center;
   margin-top: 20px;
+}
+
+#tribute-info {
+  width: 40%;
+  margin: auto;
+}
+
+h2 {
+  font-size: 1.2em;
+  margin: 50px auto;
+  text-align: center;
+}
+
+li {
+  line-height: 1.6em;
+  margin-bottom: 15px;
+}
+
+blockquote {
+  font-style: italic;
+  font-size: 0.95em;
+  margin-top: 40px;
+  margin-bottom: 40px;
 }
